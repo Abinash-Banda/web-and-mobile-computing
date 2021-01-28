@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.money {
+  width: 300px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.lover {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row {
+  display: inline-block;
+  margin: 0.2em;
+  padding: 1em;
+  width: 2.5em;
+  height: 2.5em;
+}
