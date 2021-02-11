@@ -27,3 +27,4 @@ And also i've used javascript traditional fetch() for getting the data from the 
 
 3. Another example for searching an user.
    ![Output 3](./Documentation/Images/OUTPUT 3.png)
+
