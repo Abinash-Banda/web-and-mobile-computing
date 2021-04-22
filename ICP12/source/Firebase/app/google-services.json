@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650399448707",
+    "firebase_url": "https://web-icp-12.firebaseio.com",
+    "project_id": "web-icp-12",
+    "storage_bucket": "web-icp-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650399448707:android:bd0c37d50258c1bd9aa5b6",
+        "android_client_info": {
+          "package_name": "com.sarika.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650399448707-hl7lqnn5omn3m2kf5a20t4u7jt0pkjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiy9QiroFGq0joGn8SLLKX4WqHyQHHA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650399448707-hl7lqnn5omn3m2kf5a20t4u7jt0pkjbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a979a87e-ccc3-41b7-878e-16eff1d206fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ICP8/source/LoginApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP10/Source/EarthquakeApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/Documentation/6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/source/LoginApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8/source/LoginApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/java/com/loginapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/java/com/loginapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/res/drawable/dp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP8/source/LoginApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rUjwiB4WafIDxnuk5EhURcVdNa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Firebase" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a979a87e-ccc3-41b7-878e-16eff1d206fe" name="Default Changelist" comment="" />
+      <created>1619037802460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619037802460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619038010149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619038010149" />
+  </component>
+</project>
